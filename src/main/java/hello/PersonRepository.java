@@ -1,4 +1,4 @@
-package people;
+package hello;
 
 import java.util.List;
 

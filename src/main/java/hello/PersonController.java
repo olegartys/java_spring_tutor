@@ -1,4 +1,4 @@
-package people;
+package hello;
 
 import java.lang.Iterable;
 import org.springframework.beans.factory.annotation.Autowired;

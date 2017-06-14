@@ -1,4 +1,4 @@
-package people;
+package hello;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -26,6 +26,6 @@ public class Person {
     @Override
     public String toString()
     {
-        return this.firstName +" "+ this.lastName;
+        return this.firstName + " " + this.lastName;
     }
 }

@@ -1,4 +1,4 @@
-package people;
+package hello;
 
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
