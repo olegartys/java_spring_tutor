@@ -1,4 +1,4 @@
-package hello;
+package springTest;
 
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -16,15 +16,10 @@ public class Application {
 	@Bean
 	public CommandLineRunner demo(PersonRepository repository) {
 		return (args) -> {
-			repository.save(new Person("Amber", "Ercer"));
-			repository.save(new Person("Bart", "Dandy"));
-			repository.save(new Person("Candy", "Crew"));
-			repository.save(new Person("Drew", "Blane"));
-			repository.save(new Person("Eddy", "Arch"));
-			System.out.println("Repository check:");
-			for (Person per : repository.findAll()) {
-				System.out.println(per);
-			}
+			repository.save(new Person("John", "Doe"));
+			repository.save(new Person("Rachel", "Amber"));
+			repository.save(new Person("Max", "Coldfield"));
+			repository.save(new Person("Chloe", "Price"));
 		};
 	}
 }
