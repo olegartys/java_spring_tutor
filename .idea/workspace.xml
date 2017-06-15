@@ -14,15 +14,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/people/PersonController.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/people/PersonRepository.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/people/WebSecurityConfig.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hello/Application.java" afterPath="$PROJECT_DIR$/src/main/java/springTest/Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hello/MvcConfig.java" afterPath="$PROJECT_DIR$/src/main/java/springTest/MvcConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hello/Person.java" afterPath="$PROJECT_DIR$/src/main/java/springTest/Person.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hello/PersonController.java" afterPath="$PROJECT_DIR$/src/main/java/springTest/PersonController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hello/PersonRepository.java" afterPath="$PROJECT_DIR$/src/main/java/springTest/PersonRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hello/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/springTest/WebSecurityConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -183,9 +174,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="36" />
     <option name="width" value="1920" />
-    <option name="height" value="1025" />
+    <option name="height" value="1061" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -724,15 +714,15 @@
       <option name="presentableId" value="Default" />
       <updated>1495698838775</updated>
       <workItem from="1495698852164" duration="3777000" />
-      <workItem from="1497462507583" duration="12477000" />
+      <workItem from="1497462507583" duration="12658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16254000" />
+    <option name="totallyTimeSpent" value="16435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="36" width="1920" height="1025" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1061" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -753,7 +743,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34297964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33023736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -814,9 +804,9 @@
         <state relative-caret-position="6285">
           <caret line="419" column="56" lean-forward="false" selection-start-line="419" selection-start-column="56" selection-end-line="419" selection-end-column="56" />
           <folding>
-            <marker date="1497505785206" expanded="true" signature="56755:56772" ph="..." />
-            <marker date="1497505785206" expanded="true" signature="56755:56790" ph="..." />
-            <marker date="1497505785206" expanded="true" signature="56755:56803" ph="..." />
+            <marker date="1497506017510" expanded="true" signature="55261:55278" ph="..." />
+            <marker date="1497506017510" expanded="true" signature="55261:55296" ph="..." />
+            <marker date="1497506017510" expanded="true" signature="55261:55309" ph="..." />
           </folding>
         </state>
       </provider>
@@ -921,9 +911,9 @@
         <state relative-caret-position="6255">
           <caret line="417" column="56" lean-forward="false" selection-start-line="417" selection-start-column="56" selection-end-line="417" selection-end-column="56" />
           <folding>
-            <marker date="1497505785206" expanded="true" signature="56755:56772" ph="..." />
-            <marker date="1497505785206" expanded="true" signature="56755:56790" ph="..." />
-            <marker date="1497505785206" expanded="true" signature="56755:56803" ph="..." />
+            <marker date="1497506017510" expanded="true" signature="55261:55278" ph="..." />
+            <marker date="1497506017510" expanded="true" signature="55261:55296" ph="..." />
+            <marker date="1497506017510" expanded="true" signature="55261:55309" ph="..." />
           </folding>
         </state>
       </provider>
