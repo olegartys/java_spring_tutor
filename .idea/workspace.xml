@@ -14,6 +14,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/people/PersonController.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/people/PersonRepository.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/people/WebSecurityConfig.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -714,12 +715,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495698838775</updated>
       <workItem from="1495698852164" duration="3777000" />
-      <workItem from="1497462507583" duration="12658000" />
+      <workItem from="1497462507583" duration="12779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16435000" />
+    <option name="totallyTimeSpent" value="16556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1061" extended-state="0" />
@@ -804,9 +805,9 @@
         <state relative-caret-position="6285">
           <caret line="419" column="56" lean-forward="false" selection-start-line="419" selection-start-column="56" selection-end-line="419" selection-end-column="56" />
           <folding>
-            <marker date="1497506017510" expanded="true" signature="55261:55278" ph="..." />
-            <marker date="1497506017510" expanded="true" signature="55261:55296" ph="..." />
-            <marker date="1497506017510" expanded="true" signature="55261:55309" ph="..." />
+            <marker date="1497506135742" expanded="true" signature="55261:55278" ph="..." />
+            <marker date="1497506135742" expanded="true" signature="55261:55296" ph="..." />
+            <marker date="1497506135742" expanded="true" signature="55261:55309" ph="..." />
           </folding>
         </state>
       </provider>
@@ -911,9 +912,9 @@
         <state relative-caret-position="6255">
           <caret line="417" column="56" lean-forward="false" selection-start-line="417" selection-start-column="56" selection-end-line="417" selection-end-column="56" />
           <folding>
-            <marker date="1497506017510" expanded="true" signature="55261:55278" ph="..." />
-            <marker date="1497506017510" expanded="true" signature="55261:55296" ph="..." />
-            <marker date="1497506017510" expanded="true" signature="55261:55309" ph="..." />
+            <marker date="1497506135742" expanded="true" signature="55261:55278" ph="..." />
+            <marker date="1497506135742" expanded="true" signature="55261:55296" ph="..." />
+            <marker date="1497506135742" expanded="true" signature="55261:55309" ph="..." />
           </folding>
         </state>
       </provider>
